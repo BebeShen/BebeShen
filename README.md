@@ -2,10 +2,14 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
 
-![Bebeshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true">
+</p>
 
 <!--START_SECTION:waka-->
-![Bebeshen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true">
+</p>
 <!--END_SECTION:waka-->
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
