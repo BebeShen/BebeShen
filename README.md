@@ -7,9 +7,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true">
-</p>
 <!--END_SECTION:waka-->
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
