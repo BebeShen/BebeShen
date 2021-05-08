@@ -12,7 +12,7 @@ Welcome to my page!
 <h2>Technologies</h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact)
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30></h2>
