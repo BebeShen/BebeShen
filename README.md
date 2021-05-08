@@ -2,13 +2,12 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
 <p>
-Welcome to my page!<br>
-I'm
+Welcome to my page!
 </p> 
 
-[![Bebeshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Bebeshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true)
 
-[![Bebeshen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Bebeshen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true)
 
 <h2>Technologies</h2>
 
