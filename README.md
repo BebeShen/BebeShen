@@ -1,11 +1,6 @@
 # BebeShen
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bebeshen.README.md)
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
-<p>
-Welcome to my page!
-</p> 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
 
 ![Bebeshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true)
 
@@ -13,12 +8,13 @@ Welcome to my page!
 ![Bebeshen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true)
 <!--END_SECTION:waka-->
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact)
-
-<p>
+<p align="center">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,9 +28,10 @@ Welcome to my page!
     <img alt="SDN" src="https://img.shields.io/badge/P4-777BB4?style=for-the-badge" />
 </p>
 
-學習清單:
+<!-- 
+<h2 align="center">學習中</h2>
 
-<p>
+<p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -44,11 +41,12 @@ Welcome to my page!
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
     <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+</p> 
+-->
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30> Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1549409632/5276/pig-hello-sitting.gif?1549409632" width=30></h2>
 
-<p>
+<p align="center">
     <a href = https://www.instagram.com/du1111szy>
         <img alt="Instagram" src="https://img.shields.io/badge/du11szy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
@@ -68,11 +66,22 @@ Welcome to my page!
 
 ---
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width=30> Repository <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width=30></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width=30> Repository <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width=30></h2>
 
+<p align="center">
 <a href="https://github.com/Bebeshen/tutorials">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bebeshen&repo=tutorials&show_owner=true&theme=midnight-purple&border_radius=25">
 </a>
 <a href="https://github.com/Bebeshen/LineChatBot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bebeshen&repo=LineChatBot&show_owner=true&theme=midnight-purple&border_radius=25">
 </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://img.shields.io/github/followers/Bebeshen?style=social">
+    <img src="https://img.shields.io/github/stars/Bebeshen?style=social"><br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Bebeshen.README.md"/>
+    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+</p>
