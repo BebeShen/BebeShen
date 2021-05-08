@@ -7,9 +7,11 @@ Welcome to my page!
 
 ![Bebeshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true)
 
+<!--START_SECTION:waka-->
 ![Bebeshen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true)
+<!--END_SECTION:waka-->
 
-<h2>Technologies</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact)
