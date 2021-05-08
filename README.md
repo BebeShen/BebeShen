@@ -29,7 +29,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
     <img alt="SDN" src="https://img.shields.io/badge/SDN-0db7ed?style=for-the-badge" />
-    <img alt="SDN" src="https://img.shields.io/badge/P4-777BB4?style=for-the-badge" />
+    <img alt="P4" src="https://img.shields.io/badge/P4-777BB4?style=for-the-badge" />
 </p>
 
 <!-- 
