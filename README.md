@@ -1,6 +1,6 @@
 # BebeShen
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hey！Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bebeshen&show_icons=true&theme=midnight-purple&border_radius=25&hide_border=true&include_all_commits=true">
@@ -8,14 +8,14 @@
 
 <!--START_SECTION:waka-->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time&theme=midnight-purple&border_radius=25&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BebeShen&layout=compact&custom_title=Code%20Time%20Over%20Last%207%20Days&theme=midnight-purple&border_radius=25&hide_border=true&cache_seconds=1800">
 </p>
 <!--END_SECTION:waka-->
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Technologies <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Programming Languages <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebeshen&layout=compact&theme=midnight-purple&border_radius=25&hide_border=true">
 </p>
 
 <p align="center">
