@@ -20,4 +20,4 @@ jobs:
           SHOW_COMMIT : False
           SHOW_OS : False
           SHOW_TIMEZONE : False
-          SYMBOL_VERSION : 3
+          SYMBOL_VERSION : 1
