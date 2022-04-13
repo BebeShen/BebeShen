@@ -7,38 +7,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2%E7%80%8F%E8%A6%BD%E6%AC%A1%E6%95%B8-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/%E5%BE%9E%E3%80%8CHello%20World%E3%80%8D%E6%88%91%E5%B7%B2%E7%B6%93%E5%AF%AB%E4%BA%86-31%20Thousand%20%E8%A1%8C%E7%A8%8B%E5%BC%8F%E7%A2%BC-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
-**🐱 我的 GitHub 數據** 
+**🐱 My GitHub Data** 
 
-> 🏆  44個貢獻，在 2022年
+> 🏆 44 Contributions in the Year 2022
  > 
-> 📦 在 GitHub 佔用了 49.2 kB 
+> 📦 49.2 kB Used in GitHub's Storage 
  > 
-> 💼 開放徵才
+> 💼 Opted to Hire
  > 
-> 📜 27 公共倉庫 
+> 📜 27 Public Repositories 
  > 
-> 🔑 1 私人倉庫 
+> 🔑 1 Private Repository 
  > 
-📊 **本週的花費時間** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 程式語言: 
+💬 Programming Languages: 
 Bash                     3 hrs 13 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.54% 
 Other                    1 hr 59 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.38% 
 Vue.js                   1 hr 58 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.24% 
 Python                   1 hr 39 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.66% 
 Markdown                 57 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.92%
 
-🔥 編輯器: 
+🔥 Editors: 
 VS Code                  12 hrs 10 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
-🐱‍💻 專案: 
+🐱‍💻 Projects: 
 Unknown Project          5 hrs 29 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.18% 
 Seat-Reservation-System  5 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.11% 
 LeetCodePracticeRecords  58 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.02% 
@@ -46,7 +46,7 @@ NCKU_DL                  26 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```
 
-**我主要撰寫 Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   8 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.44% 
@@ -58,12 +58,12 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
-**時間軸**
+**Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/BebeShen/BebeShen/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 11:48:54 UTC
+ Last Updated on 13/04/2022 12:00:16 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Programming Languages <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
