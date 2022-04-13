@@ -157,6 +157,12 @@ HTML                     1 repo              █░░░░░░░░░░�
 <a href="https://github.com/Bebeshen/LineChatBot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bebeshen&repo=LineChatBot&show_owner=true&theme=midnight-purple&border_radius=25">
 </a>
+<a href="https://github.com/Bebeshen/discord-bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bebeshen&repo=discord-bot&show_owner=true&theme=midnight-purple&border_radius=25">
+</a>
+<a href="https://github.com/Nahemah1022/Seat-Reservation-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nahemah1022&repo=Seat-Reservation-System&show_owner=true&theme=midnight-purple&border_radius=25">
+</a>
 </p>
 
 ---
