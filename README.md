@@ -7,15 +7,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2022
+> 🏆 49 Contributions in the Year 2022
  > 
 > 📦 49.2 kB Used in GitHub's Storage 
  > 
@@ -29,20 +29,21 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   26.54% 
-Other                    1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
-Vue.js                   1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-Python                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
+Bash                     3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23% 
+Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Vue.js                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Python                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.61%
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 19 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.18% 
-Seat-Reservation-System  5 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   43.11% 
-LeetCodePracticeRecords  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-NCKU_DL                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
+Unknown Project          5 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.25% 
+Seat-Reservation-System  5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   39.37% 
+LeetCodePracticeRecords  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+Github_Profile           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+NCKU_DL                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
 
 ```
 
@@ -63,7 +64,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BebeShen/BebeShen/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 12:32:39 UTC
+ Last Updated on 2022/04/14 14:06 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Programming Languages <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
