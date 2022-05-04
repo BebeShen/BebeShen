@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -64,7 +64,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BebeShen/BebeShen/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022/05/04 16:35 UTC
+ Last Updated on 2022/05/04 16:38 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/> Programming Languages <img src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif?1584726180" width="30"/></h2>
