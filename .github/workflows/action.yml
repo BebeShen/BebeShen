@@ -6,7 +6,7 @@ on:
 #       - main
   schedule:
     # Runs at 16:00 UTC ( at 24:00 Taiwan(UTC+8) )
-    - cron: '0 16 * * *'
+    - cron: '0 16 * * 0'
   # 允許你從 Action 頁簽上手動執行 workflow
   workflow_dispatch: 
 jobs: 
