@@ -1,9 +1,9 @@
 name: Waka Readme # Workflow 名稱
 
 on:
-  push:
-    branches: 
-      - main
+#   push:
+#     branches: 
+#       - main
   schedule:
     # Runs at 16:00 UTC ( at 24:00 Taiwan(UTC+8) )
     - cron: '0 16 * * *'
